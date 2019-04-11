@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`xmlToJson converts XML file to JSON 1`] = `
+Array [
+  Object {
+    "artist": "Something Corporate",
+    "title": "Only Ashes",
+  },
+  Object {
+    "artist": "Porches",
+    "title": "Mood",
+  },
+  Object {
+    "artist": "The Front Bottoms",
+    "title": "Peach",
+  },
+  Object {
+    "artist": "The Front Bottoms",
+    "title": "The Plan (F**k Jobs)",
+  },
+  Object {
+    "artist": "The Front Bottoms",
+    "title": "12 Feet Deep",
+  },
+  Object {
+    "artist": "The Front Bottoms",
+    "title": "Funny You Should Ask",
+  },
+  Object {
+    "artist": "The Front Bottoms",
+    "title": "Santa Monica",
+  },
+  Object {
+    "artist": "Streetlight Manifesto",
+    "title": "The Three of Us",
+  },
+  Object {
+    "artist": "Streetlight Manifesto",
+    "title": "Down, Down, Down to Mephisto's Cafe",
+  },
+  Object {
+    "artist": "Joyce Manor",
+    "title": "The Jerk",
+  },
+  Object {
+    "artist": "Title Fight",
+    "title": "Mrahc",
+  },
+  Object {
+    "artist": "Night Moves",
+    "title": "Carl Sagan",
+  },
+  Object {
+    "artist": "Title Fight",
+    "title": "Your Pain Is Mine Now",
+  },
+  Object {
+    "artist": "Toro y Moi",
+    "title": "All Alone",
+  },
+  Object {
+    "artist": "Kenichiro Nishihara",
+    "title": "Magazine (feat. Ashley Eriksson)",
+  },
+  Object {
+    "artist": "Kenichiro Nishihara",
+    "title": "My Leaving (feat. Mabanua)",
+  },
+  Object {
+    "artist": "Kevin Devine",
+    "title": "No History",
+  },
+  Object {
+    "artist": "Miniature Tigers",
+    "title": "Wheat",
+  },
+  Object {
+    "artist": "I'm Glad It's You",
+    "title": "Keepsake",
+  },
+  Object {
+    "artist": "re:plus",
+    "title": "Nighttime",
+  },
+  Object {
+    "artist": "AFI",
+    "title": "White Offerings",
+  },
+  Object {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Go Robot",
+  },
+  Object {
+    "artist": "Catfish and the Bottlemen",
+    "title": "7",
+  },
+  Object {
+    "artist": "Cloud Nothings",
+    "title": "Modern Act",
+  },
+  Object {
+    "artist": "Cage the Elephant",
+    "title": "Trouble",
+  },
+  Object {
+    "artist": "IAN SWEET",
+    "title": "#23",
+  },
+  Object {
+    "artist": "Slow Hollows",
+    "title": "Romantic",
+  },
+  Object {
+    "artist": "Speak The Truth… Even If Your Voice Shakes",
+    "title": "Go for the Throat",
+  },
+  Object {
+    "artist": "Modern Baseball",
+    "title": "Bart to the Future, Pt. 2: The Musical (30 Days, 30 Songs)",
+  },
+  Object {
+    "artist": "The Superweaks",
+    "title": "Oh God (We're All So Miserable Now)",
+  },
+  Object {
+    "artist": "Chasing Victory",
+    "title": "She Haunts Me (feat. Patrick Schefano)",
+  },
+  Object {
+    "artist": "Jack's Mannequin",
+    "title": "I'm Ready",
+  },
+  Object {
+    "artist": "Cut Off Your Hands",
+    "title": "Turn Cold",
+  },
+  Object {
+    "artist": "Cut Off Your Hands",
+    "title": "You Should Do Better",
+  },
+  Object {
+    "artist": "Drakulas",
+    "title": "Stepping on Glass",
+  },
+  Object {
+    "artist": "Dingus",
+    "title": "Up the Road",
+  },
+  Object {
+    "artist": "The Avalanches",
+    "title": "Since I Left You",
+  },
+  Object {
+    "artist": "Death Cab for Cutie",
+    "title": "The New Year",
+  },
+  Object {
+    "artist": "Toro y Moi",
+    "title": "Sweet",
+  },
+]
+`;
